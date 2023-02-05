@@ -1,2 +1,6 @@
-# lab-pbw-b-MuattaMuhariq
-MuattaMuhariq_2108107010098
+# Ini merupakan repository tugas praktikum Pemrograman Berbasis Web INF 224 USK 2023
+ 
+## Data Diri
+ 
+Nama:Muatta Muhariq
+NPM:2108107010098
