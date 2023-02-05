@@ -3,4 +3,7 @@
 ## Data Diri
  
 Nama:Muatta Muhariq
+
 NPM:2108107010098
+
+Hobi: Tidor
