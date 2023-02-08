@@ -8,4 +8,6 @@ NPM:2108107010098
 
 Hobi: Tidor
 
-Sedang belajar cara commit
+Sedang belajar cara commit yang benar
+
+fafafawfafaefaw
